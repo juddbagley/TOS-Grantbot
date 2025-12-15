@@ -1,0 +1,5 @@
+{
+  "name": "GrantBloom",
+  "description": "A powerful analysis tool that leverages Gemini to compare successful and unsuccessful grant applications, identifying key strengths, weaknesses, and winning patterns.",
+  "requestFramePermissions": []
+}
